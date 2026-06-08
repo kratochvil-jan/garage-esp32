@@ -43,7 +43,7 @@ uart:
   debug:
 
 external_components:
-  - source: github://eigger/espcomponents@latest
+  - source: github://eigger/espcomponents@v251114
     components: [ uartex ]
     refresh: always
 
